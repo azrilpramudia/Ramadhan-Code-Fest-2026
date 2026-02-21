@@ -64,6 +64,9 @@
 [submodule "imalrightjack-bot"]
 	path = imalrightjack-bot
 	url = https://github.com/bbeetlesam/imalrightjack-bot
+[submodule "scrape-result-reader-mobile-app"]
+	path = scrape-result-reader-mobile-app
+	url = https://github.com/RizqullahY/scrape-result-reader-mobile-app
 [submodule "bot-nganggur"]
 	path = bot-nganggur
 	url = https://github.com/fdvky1/bot-nganggur.git
